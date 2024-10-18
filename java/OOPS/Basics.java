@@ -7,6 +7,7 @@ public class Basics {
         System.out.println(p1.tip);
         p1.color="Yellow";
         System.out.println(p1.color);
+        
     }
 }
 class Pen{
