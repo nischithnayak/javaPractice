@@ -8,6 +8,7 @@ public class Basics {
         p1.color="Yellow";
         System.out.println(p1.color);
         
+        
     }
 }
 class Pen{
