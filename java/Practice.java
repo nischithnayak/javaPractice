@@ -8,6 +8,7 @@ public class Practice {
         int n=str.length();
         char[] chars=str.toCharArray();
         Arrays.sort(chars);
+        
         String sortedStr=new String(chars);
         
         for (int i=0;i<n;i++){
