@@ -30,6 +30,5 @@ public class PairSum1Opt {
         list.add(6);
         int target=5;
         System.out.println(pairSum1(list, target));
-        
     }
 }
