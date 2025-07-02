@@ -1,4 +1,3 @@
-
 public class GreatestofThree {
     public static void main(String[] args) {
         int a=722, b=109,c=37;
